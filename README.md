@@ -1,1 +1,1 @@
-# .github
+# scouting-commons
