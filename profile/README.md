@@ -10,6 +10,9 @@ Built by Scouts, leaders, and volunteers, for everyone in the movement.
 
 </div>
 
+> [!IMPORTANT]
+> **Scouting Commons is unofficial.** We are an independent community project and are not affiliated with, endorsed by, sponsored by, or speaking for Scouting America (formerly the Boy Scouts of America). Scouting America, Cub Scouts, Scouts BSA, Sea Scouts, Venturing, the Fleur-de-lis, and related names, logos, and marks are trademarks or registered trademarks of Scouting America, used here only to identify the programs our tools serve. Official program content, requirements, and data remain the intellectual property of their respective owners. For authoritative information, always refer to [scouting.org](https://www.scouting.org).
+
 ---
 
 ## 🏕️ What we do
