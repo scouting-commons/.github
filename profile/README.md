@@ -6,7 +6,7 @@
 
 Built by Scouts, leaders, and volunteers, for everyone in the movement.
 
-[🌐 scoutingcommons.org](https://scoutingcommons.org) · [📚 Awesome Scouting](https://github.com/scouting-commons/awesome-scouting) · [🔌 Scouting API](https://scouting-commons.github.io/scouting-api/)
+[🌐 scoutingcommons.org](https://scoutingcommons.org) · [📰 Scouting411](https://scouting411.org) · [📚 Awesome Scouting](https://github.com/scouting-commons/awesome-scouting) · [🔌 Scouting API](https://scouting-commons.github.io/scouting-api/)
 
 </div>
 
@@ -25,6 +25,7 @@ Scouting runs on volunteers, and volunteers deserve good tools. Scouting Commons
 | Project | What it is |
 | --- | --- |
 | [**awesome-scouting**](https://github.com/scouting-commons/awesome-scouting) | A curated list of open-source software and free resources for Scouting America units and programs: unit management, advancement, Pinewood Derby, trip planning, and more. |
+| [**scouting411**](https://github.com/scouting-commons/scouting411) | The unofficial aggregator for official Scouting America news and resources. National news, program updates, and resources, gathered in one place at [scouting411.org](https://scouting411.org). |
 | [**scouting-api**](https://github.com/scouting-commons/scouting-api) | Unofficial OpenAPI 3.1 descriptions of Scouting America's public APIs, checked against the live APIs every week, with [hosted docs](https://scouting-commons.github.io/scouting-api/) and a generated TypeScript client. |
 
 ## 🤝 Get involved
@@ -32,6 +33,7 @@ Scouting runs on volunteers, and volunteers deserve good tools. Scouting Commons
 You don't need to be a developer to help.
 
 - **Know a great tool?** Add it to [Awesome Scouting](https://github.com/scouting-commons/awesome-scouting).
+- **Spotted a missing national resource?** Request it on [Scouting411](https://github.com/scouting-commons/scouting411/issues).
 - **Found a bug or a gap?** Open an issue on the relevant repo.
 - **Want to build?** Pick up an issue, send a pull request, or start something new on top of [scouting-api](https://github.com/scouting-commons/scouting-api).
 
