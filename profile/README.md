@@ -2,7 +2,7 @@
 
 # ⚜️ Scouting Commons
 
-**Open-source tools and open data for the Scouting community.**
+**Community-built tools and open data for the Scouting community.**
 
 Built by Scouts, leaders, and volunteers, for everyone in the movement.
 
