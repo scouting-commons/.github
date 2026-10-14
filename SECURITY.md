@@ -9,4 +9,7 @@ Any vulnerability which pertains to Scouting America's own official systems, suc
 
 ## Reporting a Vulnerability
 
-Security vulnerabilities (which pertain only to the unofficial, community-maintained contents of this repository itself, and not to the behavior of any official Scouting America system itself) may be reported to us through Github's security reporting tool, located here: [https://github.com/scouting-commons/.github/security/advisories/new](https://github.com/scouting-commons/.github/security/advisories/new). **We are NOT Scouting America**. Do not report any security-sensitive information to us which has to do with upstream behavior in Scouting America's own systems.
+**We are NOT Scouting America**. Do not report any security-sensitive information to us which has to do with upstream behavior in Scouting America's own systems.
+
+Security vulnerabilities (which pertain only to the unofficial, community-maintained contents of this repository itself, and not to the behavior of any official Scouting America system itself) may be reported to us through Github's security reporting tool, located here: [https://github.com/scouting-commons/.github/security/advisories/new](https://github.com/scouting-commons/.github/security/advisories/new). Do not include personal data, or details of vulnerabilities in official Scouting America systems, in your report.
+
